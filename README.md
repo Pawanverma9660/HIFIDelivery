@@ -4,7 +4,7 @@ HIFI Delivery is a comprehensive delivery management system designed to streamli
 
 ## Features
 
-- **User Authentication**: Secure login and signup for customers, delivery agents, and admins.
+- **User Authentication**: Secure login and signup for customers, delivery agents, and admins..
 - **Order Management**: Track and manage orders from creation to delivery.
 - **Delivery Agent Dashboard**: View assigned, pending, and completed orders.
 - **Admin Dashboard**: Manage delivery agents, view sales insights, and approve/reject agent applications.
